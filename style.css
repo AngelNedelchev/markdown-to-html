@@ -1,0 +1,41 @@
+table{ border-collapse: collapse;   
+}
+
+table, th, td {
+border: 1px solid black;
+border-top-
+}
+
+th, td {
+    padding: 10px;
+}
+
+body {
+    width: 1200px;
+    margin: auto;
+    background-color: #eff5ff;
+}
+
+p, li {
+    font-size: 20px;
+}
+
+img {
+    height: 210px;
+    width: 350px;
+    margin-left: 500px;
+}
+
+code {
+    background-color: #eaf1fc
+
+}
+
+tr:nth-child(odd) {
+    background-color: #c2d7f9;
+}
+
+hr {
+margin-bottom: 20px;
+}    
+
